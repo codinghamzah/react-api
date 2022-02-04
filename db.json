@@ -27,6 +27,13 @@
       "alamat": "Bali",
       "umur" : 20,
       "email": "erda@gmail.com"
+    },
+    {
+      "id":5,
+      "nama" : "kerun",
+      "alamat": "istanbul",
+      "umur" : 20,
+      "email": "kerun@gmail.com"
     }
 ]
 }
